@@ -1,0 +1,6 @@
+{
+  "name": "Deadline Guardian",
+  "description": "An AI-powered productivity companion and active accountability partner that plans, prioritizes, and helps complete tasks before deadlines are missed.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
