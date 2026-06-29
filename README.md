@@ -340,79 +340,18 @@ SECRET_KEY=YOUR_SECRET_KEY
 
 ---
 
-# 📷 Screenshots
 
-Add screenshots here before submission.
-
-* Landing Page
-* Dashboard
-* AI Suggestions
-* Calendar
-* Analytics
-* Light Theme
-* Dark Theme
-
----
-
-# 🌍 Live Demo
-
-**Application**
-
-(Add deployed application link)
-
----
-
-# 📄 Documentation
-
-Google Doc:
-
-(Add Google Doc Link)
-
----
-
-# 📁 GitHub Repository
-
-(Add GitHub Repository Link)
-
----
-
-# 🎥 Demo Video (Optional)
-
-(Add YouTube or Drive Link)
-
----
 
 # 👩‍💻 Developed By
 
 **Shravani Deotale**
 
-Bachelor of Engineering (Artificial Intelligence & Data Science)
-
----
 
 # 🏆 Built For
 
 **The Last-Minute Life Saver Hackathon**
 
-Problem Statement:
 
-Build an AI-powered productivity companion that proactively assists users in planning, prioritizing, and completing tasks before deadlines are missed.
-
----
-
-# 🔮 Future Scope
-
-* Google Calendar Integration
-* Gmail Task Extraction
-* Voice Assistant
-* Smart Notifications
-* Team Collaboration
-* AI Focus Mode
-* Offline Support
-* Wearable Integration
-* Advanced Predictive Analytics
-
----
 
 # 📜 License
 
